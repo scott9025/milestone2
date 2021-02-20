@@ -8,6 +8,8 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+Url for my repo: (https://github.com/scott9025/milestone2.git)
+
 
 Project #1 (https://github.com/sophiebaud11/COVID19-and-education.git): 
 
