@@ -9,3 +9,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Project #1 (https://github.com/sophiebaud11/COVID19-and-education.git): 
+
+
+Sophie Bauder's project aims to examine the impacts of the COVID-19 pandemic on education, focusing on the experiences of educators. I like how she started the project with two heatmaps, one map showing the heatmap on COVID-19 cases and one on the average weekly wages for educators.I also like that she included a list of sample she used and that she used statistical concepts to interpret her findings. My only concern is that she only had 42 samples for education and that the methods for selecting theses samples might not have been through a random selection, possibly leading to biases. 
+
+
+Project #2 (https://github.com/andreferreira0706/climatechange.git):
+
+
+Andre Ferreira's project aims to analyze trends regarding temperature anomalies and its correlation to CO2 emission growth. He did a great job including multiple visualizations on public opinion regarding the climate crisis, CO2 emissions by country, and global CO2 share. When discussing the relationship that exists between carbon emissions and temperature anomalies, he used some amazing animations to plot his findings. Also, it was great to see carbon emission trends by continent. Glad to see that his results met his expectations. For the regression, including the significance levels, p-values, etc. on the regression output might help some of the readers to quickly skim through it.
