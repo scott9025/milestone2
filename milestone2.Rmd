@@ -1,0 +1,11 @@
+---
+title: "Milestone2"
+author: "Scott Bek"
+date: '2021 2 20 '
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
